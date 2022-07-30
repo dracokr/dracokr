@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dracokr
 - 👀 I’m interested in movies and reading.
-- 🌱 I’m currently learning golang.
+- 🌱 I’m currently learning php, golang.
 <!---- 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me draco@draco.pe.kr
 

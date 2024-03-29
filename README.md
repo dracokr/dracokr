@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m @dracokr<br>- 👀 I’m interested in movies and reading.<br>- 🌱 I’m currently learning php, golang.<br>- 📫 How to reach me draco@draco.pe.kr</p>
+<p align="left">- 👋 Hi, I’m @dracokr<br>- 👀 I’m interested in movies and reading.<br>- 🌱 I’m currently learning php, golang.<br>- 📫 How to reach me <a href="mailto:﻿draco@draco.pe.kr">draco@draco.pe.kr</a></p>
 
 ###
 
